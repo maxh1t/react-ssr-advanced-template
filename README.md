@@ -1,1 +1,1 @@
-# React + SSR + Vite + TypeScript
+# React + SSR + Vite + TypeScript + Streaming
