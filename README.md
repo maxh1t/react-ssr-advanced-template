@@ -1,4 +1,4 @@
-# RReact SSR Streaming Template
+# React SSR Streaming Template
 
 A production-ready template for building server-side rendered (SSR) React applications with streaming and Vite.
 
