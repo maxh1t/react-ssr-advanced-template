@@ -1,6 +1,9 @@
 # React SSR Streaming Template
 
-A production-ready template for building server-side rendered (SSR) React applications with streaming and Vite.
+The production-ready template for building server-side rendered (SSR) React applications with streaming and Vite.
+
+This repository complements the article: [Advanced React SSR Techniques with Streaming and Dynamic Data](https://dev.to/maxh1t/advanced-react-ssr-techniques-with-streaming-and-dynamic-data-mf6)
+
 
 ## Adding Packages
 
